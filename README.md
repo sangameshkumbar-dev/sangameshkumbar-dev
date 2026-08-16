@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Sangamesh kumbar
+# 💫 Hi 👋, I'm Sangamesh Kumbar
 **A passionate Python Developer || AI & Data Science || Building practical solutions with code**
 
 # 💻 Tech Stack:
